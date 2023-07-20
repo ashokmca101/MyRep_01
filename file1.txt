@@ -2,5 +2,8 @@ This is Ashok Kumar
 This my Nw File
 Created by Me
 
-I Added this lIne A
-I Added This Line B
+I Added this line A
+
+A for Apple
+B for Ball
+C for Cat
